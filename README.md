@@ -1,16 +1,18 @@
-## Hi there 👋
+# 自己紹介
+主にDiscord botの開発やサーバー運営などを行っています。
+現在は[musicmoment](http://musicmoment.jp/)というBotをメインで運営しています。  
+## 扱える言語
+- Python3
 
-<!--
-**haruyq/haruyq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ほんの少し扱える言語
+- C#
+- Java
 
-Here are some ideas to get you started:
+## その他
+- Ubuntu Server
+- GCP(ちょっと)
+- discord.py
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 普段なにしてんの？
+やる気ない時は基本的にずっと遊んでます。  
+最近マイクラをやっていて、Javaに触れる機会が多いので少し勉強中
