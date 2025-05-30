@@ -3,10 +3,7 @@
 現在は[musicmoment](http://musicmoment.jp/)というBotをメインで運営しています。  
 ## 扱える言語
 - Python3
-
-## ほんの少し扱える言語
-- C#
-- Java
+歴だけは絶妙に長い無能です。
 
 ## その他
 - Ubuntu Server
