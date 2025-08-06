@@ -7,8 +7,9 @@
 
 ## その他
 - Ubuntu Server
-- GCP(ちょっと)
+- cloudflared
 - discord.py
+- fastapi
 
 ## 普段なにしてんの？
 やる気ない時は基本的にずっと遊んでます。  
