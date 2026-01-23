@@ -15,10 +15,11 @@
 - Java
 
 ## その他
-- Ubuntu Server
+- Ubuntu
 - discord.py
 - Wavelink
+- FastAPI
 
 ## 普段なにしてんの？
 やる気ない時は基本的にずっと遊んでます。  
-VRChat、osu! STD、Minecraftなどなど。  
+VRChat, osu!std, Overwatch2などなど。  
